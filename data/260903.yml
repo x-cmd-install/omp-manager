@@ -1,11 +1,13 @@
 about:
-  description: Installation and manager for Oh My Posh! The one thing you need to browse themes, install fonts, and configure shells
+  description:
+  |
+    Installation and manager for Oh My Posh! The one thing you need to browse themes, install fonts, and configure shells
   license: MIT
   homepage: https://github.com/marlocarlo/omp-manager
   head: 276343f
   archived: false
   latestVersion: v0.1.2
-  collectedAt: 2026-09-03T05:14:07Z
+  collectedAt: 2026-09-03T22:36:47Z
 timeline:
   created: 2026-03-03
   lastCommit: 2026-07-18
@@ -21,7 +23,7 @@ popularity:
 language:
   Rust: 191693
   PowerShell: 1141
-totalLine: 192834
+totalBytes: 192834
 recent:
   last30d:
     since: 2026-08-04
